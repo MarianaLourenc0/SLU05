@@ -1,7 +1,0 @@
--eggs
--water
--yogurts
--nutella
--garlic powder
--onions
--butter
