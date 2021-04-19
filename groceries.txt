@@ -5,3 +5,4 @@ nutella
 milk
 yogurts
 butter
+eggs
